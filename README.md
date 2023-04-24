@@ -3,7 +3,11 @@ Intelligent Solid-State Drive
 
 这是一个智能移动硬盘项目
 
-由Arduino开发，项目开放基础源码及基础外观。
+由Arduino使用C语言开发，3D由Shaper3D绘制，
+
+未来我会考虑设计一体式PCB版本，敬请期待。
+
+项目仅开放基础源码及基础外观。
 
 本项目于2023年4月24日启动。
 
