@@ -7,8 +7,7 @@
 	<br>
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
   <br>
-  ![5405bfe165de9696d8323bd0c1215ed](https://github.com/JasonYANG170/YANG-SSD/assets/39414350/29826f01-64bb-4ecf-b3fd-1b092dca178f)
-
+<img src="https://github.com/JasonYANG170/YANG-SSD/assets/39414350/66d25996-8093-4c84-909c-cb0ef4100a44">
   <br>
 这是一项基于C++语言，以ESP8266为核心处理器开发的Arduino物联网项目
   
