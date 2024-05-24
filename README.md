@@ -45,7 +45,7 @@
 
 ![fcf492ff7072f2f6d7a09ce72ca5605](https://user-images.githubusercontent.com/39414350/234048236-23147d52-1245-44a8-a359-8a4588fcd110.jpg)
 
-![ae5f83da74fb00d37102f6311b27052](https://user-images.githubusercontent.com/39414350/234048305-877007f7-662b-44d8-86d3-457e83982c24.jpg)
+![289b0928421d806c7fad2df174b6b7e](https://github.com/JasonYANG170/YANG-SSD/assets/39414350/9e086088-38f2-44ef-b63f-490f1be662e3)
 
 ![dc7495e018ee9abe1893b1e23cd342e](https://user-images.githubusercontent.com/39414350/234048325-4a4ff89d-48c5-4d72-93da-587e2ad753a2.jpg)
 
