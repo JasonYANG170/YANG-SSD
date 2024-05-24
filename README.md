@@ -1,39 +1,29 @@
-# YANG-SSD
-Intelligent Solid-State Drive
 
-这是一个智能移动硬盘项目
+<div align="center">
+    <h1> YANG-SSD</h1>
+    <img src="https://img.shields.io/github/license/JasonYANG170/YANG-SSD?style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/YANG-SSD?style=for-the-badge">
+	<img src="https://img.shields.io/github/languages/count/JasonYANG170/YANG-SSD?logo=cplusplus&style=for-the-badge">
+	<br>
+    	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+  <br>
+  ![5405bfe165de9696d8323bd0c1215ed](https://github.com/JasonYANG170/YANG-SSD/assets/39414350/29826f01-64bb-4ecf-b3fd-1b092dca178f)
 
-由Arduino使用C语言开发，3D由Shaper3D绘制，
+  <br>
+这是一项基于C++语言，以ESP8266为核心处理器开发的Arduino物联网项目
+  
+<br>
 
-未来我会考虑设计一体式PCB版本，敬请期待。
+</div>
 
-项目仅开放基础源码及基础外观。
 
-本项目于2023年4月24日启动。
+## 功能
+- ✅ 实时温度显示
+- ✅ 支持万物互联MQTT
+- ✅ 接入网络API，显示励志英语
+- ✅ OTA远程升级
 
-**本项目严禁未经允许上市，售卖，转载。违者将最大化承担相关法律责任**
-# 更新记录
-SSD OS V1.0
 
-3D V1.0
-
-3D V1.3
-
-SSD OS V2.3
-
-3D V3.0
-# 支持功能
-1.实时温度显示。
-
-2.实时湿度显示。
-
-3.阿里云远程管理（待开发）
-
-4.接入网络API，显示励志英语。
-
-5.OTA远程升级。（待开发）
-
-6.......
 # 硬件配置
 
 1.ESP8266。
