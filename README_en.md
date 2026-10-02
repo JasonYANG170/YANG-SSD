@@ -10,38 +10,38 @@
   <br>
 <img src="https://github.com/JasonYANG170/YANG-SSD/assets/39414350/66d25996-8093-4c84-909c-cb0ef4100a44">
   <br>
-这是一项基于C++语言，以ESP8266为核心处理器开发的Arduino物联网项目
+This is an Arduino IoT project based on C++ language and using ESP8266 as the core processor.
   
 <br>
 
 </div>
 
 
-## 功能
-- ✅ 实时温度显示
-- ✅ 支持万物互联MQTT
-- ✅ 接入网络API，显示励志英语
-- ✅ OTA远程升级
+## Features
+- ✅ Real-time temperature display
+- ✅Supports MQTT for the Internet of Everything
+- ✅ Access network API to display inspirational English
+- ✅ OTA remote upgrade
 
 
-# 硬件配置
+# Hardware configuration
 
 1.ESP8266。
 
 2.AHT10。
 
-3.SH1106 1.3寸OLED屏幕。
+3.SH1106 1.3-inch OLED screen.
 
-4.涡扇。
+4. Turbofan.
 
-5.散热片*2。
+5. Heat sink*2.
 
-6.NVME2230固态硬盘。
+6.NVME2230 solid state drive.
 ![6fe0ccd7d0eb42f08d9279c590a65c5](https://user-images.githubusercontent.com/39414350/234048191-b5c1cac6-f1de-4c67-a36c-25e4272b40d5.jpg)
 
-# 3D图纸
-![屏幕截图(528)](https://user-images.githubusercontent.com/39414350/234047403-92610969-ce1c-422d-8183-3470d34034d6.png)
-# 成品图
+# 3D drawings
+![Screenshot(528)](https://user-images.githubusercontent.com/39414350/234047403-92610969-ce1c-422d-8183-3470d34034d6.png)
+# Finished product picture
 ![fd050b3d79a594857d3d30f9b3b85ac](https://user-images.githubusercontent.com/39414350/234048156-b8956297-4544-4df4-bb39-dab3bb787b28.jpg)
 
 ![fcf492ff7072f2f6d7a09ce72ca5605](https://user-images.githubusercontent.com/39414350/234048236-23147d52-1245-44a8-a359-8a4588fcd110.jpg)
